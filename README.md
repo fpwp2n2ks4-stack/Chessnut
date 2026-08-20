@@ -1,4 +1,4 @@
-# Chessnut Air
+# Chessnut
 
 Application macOS pour jouer contre un moteur UCI **exclusivement sur un échiquier
 physique Chessnut** (Air, Air+, Go, Pro) via Bluetooth.
